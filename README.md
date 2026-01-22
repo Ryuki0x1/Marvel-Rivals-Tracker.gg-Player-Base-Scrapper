@@ -233,13 +233,4 @@ Do not abuse or overload their infrastructure.
 MIT License
 Use responsibly.
 
----
 
-If you want, next I can:
-
-* Generate a **`.gitignore`**
-* Write a **commit history suggestion**
-* Help you publish this cleanly on GitHub
-* Add **example outputs** for the README
-
-Just say the word.
