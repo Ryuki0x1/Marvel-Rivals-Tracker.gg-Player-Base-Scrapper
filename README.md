@@ -67,9 +67,9 @@ IGN|UID
 Example:
 
 ```
-adil|852823173
-dragonianshrey|1383151080
-Random1616|2091730705
+mewomewo|852823175
+woofwoof|1383151760
+moomoo|2091738905
 ```
 
 ⚠️ Notes:
